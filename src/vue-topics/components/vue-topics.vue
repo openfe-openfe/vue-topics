@@ -10,6 +10,7 @@
       </li>
     </ul>
     <input type="text" id="repo_topics" class="tag-input-inner form-control bg-white shorter d-inline-block p-0 my-1 border-0" autocomplete="off" autofocus=""
+      placeholder="标签用回车分隔"
       v-model="inputVal"
       @keydown.enter="enterTopics"
       @keydown="delectCode"

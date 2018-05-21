@@ -30,7 +30,7 @@ npm run dev
 
 ## 效果图
 
-![image](http://oij04cgoe.bkt.clouddn.com/2222222.gif)
+![image](http://oij04cgoe.bkt.clouddn.com/topics.gif)
 
 ## 说明
 
